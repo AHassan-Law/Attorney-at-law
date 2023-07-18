@@ -34,7 +34,7 @@ h1 {color: Maroon;}
 <h1 class="pageTitle" style="text-align:center;">Attorney at law</h1>
 <div>
 <!-- Photograph -->
-<img class="img-responsive" src="hassan_photo.jpeg" width="15%" alt="jordy_photo.jpeg"
+<img class="img-responsive" src="hassan_photo.jpg" width="15%" alt="hassan_photo.jpg"
      style="position:relative;float:left;padding-right:5px;padding-top:5px;"/>
 <!-- Contact info -->
 <table>
@@ -55,7 +55,7 @@ h1 {color: Maroon;}
 </tr>
 <tr><!-- Link to your CV -->
 <th>CV:</th>
-<td><a href="JordyLopez_CV_08:22.pdf">CV.pdf</a></td>
+<td><a href="hassan_CV.pdf">CV.pdf</a></td>
 </tr>
 </table>
 </div>
