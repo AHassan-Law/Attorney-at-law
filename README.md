@@ -44,7 +44,7 @@ h1 {color: Maroon;}
 </tr>
 <tr><!-- Obfuscate your e-mail address to reduce spam -->
 <th style=>E-mail:</th>
-<td>jordy.lopez [AT] tamu.edu</td>
+<td> ahassanlaw [AT] gmail.com</td>
 </tr>
 <tr><!-- Office Hours -->
 <th style="text-align: vertical-align:top">Office Hours:</th>
