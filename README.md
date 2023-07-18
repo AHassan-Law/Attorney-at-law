@@ -34,17 +34,17 @@ h1 {color: Maroon;}
 
 <div>
 <!-- Photograph -->
-<img class="img-responsive" src="jordy_photo.jpeg" width="15%" alt="jordy_photo.jpeg"
+<img class="img-responsive" src="hassan_photo.jpeg" width="15%" alt="jordy_photo.jpeg"
      style="position:relative;float:left;padding-right:5px;padding-top:5px;"/>
 <!-- Contact info -->
 <table>
 <tr><!-- Office -->
 <th style=>Office:</th>
-<td>Blocker 619</td>
+<td> Law Office of Ahmed Hassan, PO Box 956274,USA, 30095, Duluth, Georgia, +14044654883 </td>
 </tr>
 <tr><!-- Obfuscate your e-mail address to reduce spam -->
 <th style=>E-mail:</th>
-<td> ahassanlaw [AT] gmail.com</td>
+<td> ahassanlaw [AT] gmail.com or ahhassan[AT]aol.com </td>
 </tr>
 <tr><!-- Office Hours -->
 <th style="text-align: vertical-align:top">Office Hours:</th>
