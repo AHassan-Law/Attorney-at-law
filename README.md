@@ -30,7 +30,7 @@ h1 {color: Maroon;}
 
 <!-- BEGIN CONTENT HERE -->
 
-<h1 class="pageTitle" style="text-align:center;">Ahmed Hassan, attorney at law</h1>
+<h1 class="pageTitle" style="text-align:center;">Ahmed Hassan</h1>
 <h1 class="pageTitle" style="text-align:center;">Attorney at law</h1>
 <div>
 <!-- Photograph -->
