@@ -103,7 +103,7 @@ function myFunction() {
   <b>2023:</b>
 </p>
   
-<p style="font-size:20px"> <b>February.</b> I p on <a href="https://icerm.brown.edu/events/h23-agst/"> lgebrlalalalal Theory</a> .
+<p style="font-size:20px"> <b> Trial Lawyers.</b> I p on <a href="https://icerm.brown.edu/events/h23-agst/"> lgebrlalalalal Theory</a> .
 </p>
 
 <p style="font-size:20px"> <b>January.</b> I  Boston, Massachusetts: 
