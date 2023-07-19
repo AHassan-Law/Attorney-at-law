@@ -116,7 +116,11 @@ function myFunction() {
 <p style="font-size:28px">
 
 </p>
-<p style="font-size:20px"> <b> Immigration Laws.</b> I attended the <a href="https://www.msr/1056">Modern  Workshop</a> in the <a href="https://www.saonference">SACNM Conference</a>.
+<p style="font-size:20px"> <b> immigration service.</b> Our speciality is in the areas of:   <a href="https://www.msr/1056"> Modern  Workshop</a>.
+<li> Employment Based  </li>
+<li> Family Based Immigration  </li>
+<li> Naturalization </li>
+<li> Removal defense  </li>
 </p>
 
 </p>
