@@ -83,9 +83,8 @@ function myFunction() {
                      <td style="text-align: left vertical-align:top;font-size:20px"> 1990 - 1993 </td>
                      <td> /M.S. in Law, The University of Boston, USA </td>
 
-           </p>     
-     
-   
+        </p>     
+      
 
 
   <h2>About Us </h2> 
