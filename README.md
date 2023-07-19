@@ -103,10 +103,10 @@ function myFunction() {
   <b>2023:</b>
 </p>
   
-<p style="font-size:20px"> <b> Trial Lawyers.</b> I p on <a href="https://icerm.brown.edu/events/h23-agst/"> lgebrlalalalal Theory</a> .
+<p style="font-size:20px"> <b> Trial Lawyers.</b> Here are some reviews <a href="https://icerm.br.edu/events/h23-agst/"> </a> .
 </p>
 
-<p style="font-size:20px"> <b>January.</b> I  Boston, Massachusetts: 
+<p style="font-size:20px"> <b> Insurance Litigation.</b> I  Boston, Massachusetts: 
 <ul>
   <li>"Dishry," gi, based on work with <a href="https://mattfaust.github.io/">Mattst</a>, and</li>
 
