@@ -94,7 +94,7 @@ function myFunction() {
 
 <tbody> 
 
-<p style="font-size:20px">! I am Ahmed Hassan,an attnory in law working uder the requlation of Gorgia stae  <a href="https://www.gorgia.edu/~frahmedle/">Frank Sottile</a>. My interests lie in immegarion law, visas, and their applications.
+<p style="font-size:20px">! I am Ahmed Hassan,an attnory in law working uder the requlation of Gorgia stae  <a href="https://www.gorgia.edu/~fradle/">Frtile</a>. My interests lie in immegarion law, visas, and their applications.
 </p>
 
   <h2> Practise Areas</h2>
