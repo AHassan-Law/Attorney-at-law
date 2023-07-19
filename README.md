@@ -120,7 +120,29 @@ function myFunction() {
 </p>
 
 </p>
-<p style="font-size:20px"> <b> Commercial and business Litigation.</b>.
+<p style="font-size:20px"> <b> Tax Law:</b> 
+  <ul>
+  <li>"Diry," gi, based on work with <a href="https://mattst.github.io/">Mattst</a> </li>
+<li> Unpaid Taxes  </li>
+<li> Prevent Levy & Seizure  </li>
+<li> Bank Levy  </li>
+<li> Tax Lien  </li>
+<li> Payroll Tax  </li>
+<li> Unfiled Tax Returns  </li>
+<li> Income Tax Preperation  </li>
+<li> Wage Garnishment  </li>
+<li> IRS Asset Seizure  </li>
+<li> Tax Penalties  </li>
+<li> Offer In Compromise  </li>
+<li> Installment Agreement  </li>
+<li> Innocent Spouse Relief  </li>
+<li> Currently Not Collectible  </li>
+<li> Penalty & Interest Abatement  </li>
+<li> Levy & Garnishment Release  </li>
+<li> Expiration  </li>
+<li> Custom Tax Solutions  </li>
+<li>"Funth <a href="https://bmpus.com/">Beus</a>.</li>
+</ul>
 </p>
 
  <!--p style="font-size:20px"> Matst, Fre and I are . Together with <a href="https://sites.google.com/view/wencail/home">Weai iu</a> and <a href="https://sites.google.com/view/rodatos/">Rotos</a>,  <a href="https://sites.google.com/site/jaklman/">Jallman</a>, <a href="https://users.math.msu.edu/users/ikkov/">Ilyvskiy</a>
