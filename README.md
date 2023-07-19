@@ -77,9 +77,10 @@ function myFunction() {
         <p style = "font-size:20px"> 
                      <td style="text-align: left vertical-align:top;font-size:20px"> 2019 - present </td>
                      <td> MS. C. in Criminal Law, Boston University, USA </td>
-            
-            
-                     <td style="text-align: left vertical-align:top;font-size:20px"> 2011 - 1993 </td>
+        </p>   
+   <tbody> 
+        <p style = "font-size:20px"> 
+                     <td style="text-align: left vertical-align:top;font-size:20px"> 1990 - 1993 </td>
                      <td> /M.S. in Law, The University of Boston, USA </td>
 
            </p>     
