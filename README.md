@@ -100,9 +100,8 @@ function myFunction() {
   <h2> Practise Areas</h2>
 
 <p style="font-size:28px">
-  <b>2023:</b>
+
 </p>
-  
 <p style="font-size:20px"> <b> Trial Lawyers.</b> Here are some reviews <a href="https://icerm.br.edu/events/h23-agst/"> </a> .
 </p>
 
@@ -115,12 +114,15 @@ function myFunction() {
 </p>
 
 <p style="font-size:28px">
-  <b>2022:</b>
+
 </p>
-<p style="font-size:20px"> <b>October.</b> I attended the <a href="https://www.msr/1056">Modern  Workshop</a> in the <a href="https://www.saonference">SACNM Conference</a>.
+<p style="font-size:20px"> <b> Immigration Laws.</b> I attended the <a href="https://www.msr/1056">Modern  Workshop</a> in the <a href="https://www.saonference">SACNM Conference</a>.
 </p>
 
-  
+</p>
+<p style="font-size:20px"> <b> Commercial and business Litigation.</b>.
+</p>
+
  <!--p style="font-size:20px"> Matthew Faust, Frank Sottile and I are studying interactions of spectral theory and algebraic geometry based on the work of Kuchment, Liu, Matos, Fillman, Bättig, Gieseker, Knorrer, Trubowitz and others. In particular, we want to generalize the classification of Bloch varieties arising from discrete Schrödinger operators. Together with <a href="https://sites.google.com/view/wencail/home">Wencai Liu</a> and <a href="https://sites.google.com/view/rodrigomatos/">Rodrigo Matos</a>, we visited Louisiana State University to collaborate with <a href="https://sites.google.com/site/jakefillman/">Jake Fillman</a>, <a href="https://users.math.msu.edu/users/ikachkov/">Ilya Kachkovskiy</a> and <a href="https://www.math.lsu.edu/~shipman/">Stephen Shipman</a>.
   </p-->
   
