@@ -105,28 +105,25 @@ function myFunction() {
 <p style="font-size:20px"> <b> Trial Lawyers.</b> Here are some reviews <a href="https://icerm.br.edu/events/h23-agst/"> </a> .
 </p>
 
-<p style="font-size:20px"> <b> Insurance Litigation.</b> We deal with: 
-<ul>
-  <li>"Diry," gi, based on work with <a href="https://mattst.github.io/">Mattst</a> </li>
-
-  <li>"Funth <a href="https://bmpus.com/">Beus</a>.</li>
-</ul>
+<p style="font-size:20px"> <b> Insurance Litigation.</b> 
 </p>
 
 <p style="font-size:28px">
 
 </p>
 <p style="font-size:20px"> <b> immigration service.</b> Our speciality is in the areas of:   <a href="https://www.msr/1056"> Modern  Workshop</a>.
+  <ul>
 <li> Employment Based  </li>
 <li> Family Based Immigration  </li>
 <li> Naturalization </li>
 <li> Removal defense  </li>
+    </ul>
 </p>
 
 </p>
-<p style="font-size:20px"> <b> Tax Law:</b> 
-  <ul>
-  <li>"Diry," gi, based on work with <a href="https://mattst.github.io/">Mattst</a> </li>
+<p style="font-size:20px"> <b> Tax Law</b> We deal with: 
+<ul>
+<li>"Diry," gi, based on work with <a href="https://mattst.github.io/">Mattst</a> </li>
 <li> Unpaid Taxes  </li>
 <li> Prevent Levy & Seizure  </li>
 <li> Bank Levy  </li>
