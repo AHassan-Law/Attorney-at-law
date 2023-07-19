@@ -106,11 +106,11 @@ function myFunction() {
 <p style="font-size:20px"> <b> Trial Lawyers.</b> Here are some reviews <a href="https://icerm.br.edu/events/h23-agst/"> </a> .
 </p>
 
-<p style="font-size:20px"> <b> Insurance Litigation.</b> I  Boston, Massachusetts: 
+<p style="font-size:20px"> <b> Insurance Litigation.</b> We deal with: 
 <ul>
-  <li>"Dishry," gi, based on work with <a href="https://mattfaust.github.io/">Mattst</a>, and</li>
+  <li>"Diry," gi, based on work with <a href="https://mattst.github.io/">Mattst</a> </li>
 
-  <li>"Funwith <a href="https://bmbumpus.com/">Benjamin Bumpus</a>, <a href="https://slibkihub.io/">Sophie Libkind</a>, <a href="https://scholr=ZBouxdcAAAAJ&hl=en">Layla Sorkatti</a>, and <a href="https://scholar.gox3ZQ08AAAAJ&hl=en">Sam Tenka</a>.</li>
+  <li>"Funth <a href="https://bmbumpus.com/">Benjamin Bumpus</a>.</li>
 </ul>
 </p>
 
