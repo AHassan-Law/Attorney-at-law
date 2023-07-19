@@ -50,7 +50,7 @@ h1 {color: Maroon;}
 <th style="text-align: vertical-align:top">Call Us:</th>
 <td style="vertical-align: top">
 
-<i>By  +14044654883 </i>
+<i>  +14044654883 </i>
 </td>
 </tr>
 <tr><!-- Link to your CV -->
@@ -90,7 +90,7 @@ function myFunction() {
     </table>
 
 
-  <h2>About Me</h2> 
+  <h2>About Us </h2> 
 
 <tbody> 
 
