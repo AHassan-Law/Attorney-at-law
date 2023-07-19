@@ -39,18 +39,18 @@ h1 {color: Maroon;}
 <!-- Contact info -->
 <table>
 <tr><!-- Office -->
-<th style=>Office:</th>
-<td> Law Office of Ahmed Hassan, PO Box 956274,USA, 30095, Duluth, Georgia, +14044654883 </td>
+<th style=> Address:</th>
+<td> Law Office of Ahmed Hassan, PO Box 956274,USA, 30095, Duluth, Georgia. </td>
 </tr>
 <tr><!-- Obfuscate your e-mail address to reduce spam -->
-<th style=>E-mail:</th>
+<th style=>E-mail Us:</th>
 <td> ahassanlaw [AT] gmail.com or ahhassan[AT]aol.com </td>
 </tr>
-<tr><!-- Office Hours -->
-<th style="text-align: vertical-align:top">Office Hours:</th>
+<tr><!-- Call us -->
+<th style="text-align: vertical-align:top">Call Us:</th>
 <td style="vertical-align: top">
 
-<i>By appointment only</i>
+<i>By  +14044654883 </i>
 </td>
 </tr>
 <tr><!-- Link to your CV -->
@@ -97,55 +97,34 @@ function myFunction() {
 <p style="font-size:20px">! I am Ahmed Hassan,an attnory in law working uder the requlation of Gorgia stae  <a href="https://www.gorgia.edu/~frahmedle/">Frank Sottile</a>. My interests lie in immegarion law, visas, and their applications.
 </p>
 
-  <h2>Activities</h2>
+  <h2> Practise Areas</h2>
 
 <p style="font-size:28px">
   <b>2023:</b>
 </p>
   
-<p style="font-size:20px"> <b>February.</b> I participated in the ICERM Hot Topics workshop on <a href="https://icerm.brown.edu/events/htw-23-agst/">Algebraic Geometry in Spectral Theory</a> in Providence, Rhode Island.
+<p style="font-size:20px"> <b>February.</b> I p on <a href="https://icerm.brown.edu/events/h23-agst/"> lgebrlalalalal Theory</a> .
 </p>
 
-<p style="font-size:20px"> <b>January.</b> I gave two talks at the Joint Mathematics Meetings 2023 in Boston, Massachusetts: 
+<p style="font-size:20px"> <b>January.</b> I  Boston, Massachusetts: 
 <ul>
-  <li>"Discrete Periodic Operators and Algebraic Geometry," given at the MSRI (SLMath) Special Session on The MSRI Undergraduate Program (MSRI-UP), based on work with <a href="https://mattfaust.github.io/">Matthew Faust</a>, and</li>
+  <li>"Dishry," gi, based on work with <a href="https://mattfaust.github.io/">Mattst</a>, and</li>
 
-  <li>"Functors on Open Petri Nets," given at the AMS Special Session on Applied Category Theory (a Mathematics Research Communities session), based on work with <a href="https://bmbumpus.com/">Benjamin Bumpus</a>, <a href="https://slibkind.github.io/">Sophie Libkind</a>, <a href="https://scholar.google.com/citations?user=ZBouxdcAAAAJ&hl=en">Layla Sorkatti</a>, and <a href="https://scholar.google.com/citations?user=Px3ZQ08AAAAJ&hl=en">Sam Tenka</a>.</li>
+  <li>"Funwith <a href="https://bmbumpus.com/">Benjamin Bumpus</a>, <a href="https://slibkihub.io/">Sophie Libkind</a>, <a href="https://scholr=ZBouxdcAAAAJ&hl=en">Layla Sorkatti</a>, and <a href="https://scholar.gox3ZQ08AAAAJ&hl=en">Sam Tenka</a>.</li>
 </ul>
 </p>
 
 <p style="font-size:28px">
   <b>2022:</b>
 </p>
-<p style="font-size:20px"> <b>October.</b> I attended the <a href="https://www.msri.org/workshops/1056">Modern Math Workshop</a> in the <a href="https://www.sacnas.org/conference">SACNAS NDiSTEM Conference</a> in San Juan, Puerto Rico.
+<p style="font-size:20px"> <b>October.</b> I attended the <a href="https://www.msr/1056">Modern  Workshop</a> in the <a href="https://www.saonference">SACNM Conference</a>.
 </p>
 
-<p style="font-size:20px"><b>August.</b> <a href="https://github.com/kmaluccio">Kelly Maluccio</a>, Frank Sottile, <a href="https://tjyahl.github.io/">Thomas Yahl</a> and I developed a package in Macaulay2, called <a href="https://faculty.math.illinois.edu/Macaulay2/doc/Macaulay2/share/doc/Macaulay2/RealRoots/html/index.html"> <b> RealRoots</b></a> for symbolically exploring, counting and locating real solutions to general polynomial systems.</p>
-  
-<p style="font-size:20px"> <b>Summer.</b> I was assistant to <a href="https://www.math.tamu.edu/~annejls/">Anne Shiu</a> and <a href="http://fardila.com/">Federico Ardila</a> at the <a href="https://www.msri.org/msri_ups/1027">Mathematical Sciences Research Institute Undegraduate Program</a>. 
-  </p>
-  
-<p style="font-size:20px"> I participated in the <a href="https://www.ams.org/programs/research-communities/2022MRC-Categories">AMS Math Research Communities on Applied Category Theory</a>, mentored by <a href="https://math.ucr.edu/home/baez/">John Baez</a>.
-  </p>
-
-<p style="font-size:20px"><b>May.</b> I participated in the Notre Dame Future Faculty Workshop, and I attended the <a href="https://sites.google.com/iit.edu/as2022">Algebraic Statistics Conference</a> at the University of Hawai'i at Manoa.
-  </p>
-
-<p style="font-size:20px"><b>March.</b> I gave a workshop at the <a href="">MSC SCOLA 35th Student Conference on Latinx Affairs</a>, titled "Mathematics in the Midst of Trials". 
-</p>
   
  <!--p style="font-size:20px"> Matthew Faust, Frank Sottile and I are studying interactions of spectral theory and algebraic geometry based on the work of Kuchment, Liu, Matos, Fillman, Bättig, Gieseker, Knorrer, Trubowitz and others. In particular, we want to generalize the classification of Bloch varieties arising from discrete Schrödinger operators. Together with <a href="https://sites.google.com/view/wencail/home">Wencai Liu</a> and <a href="https://sites.google.com/view/rodrigomatos/">Rodrigo Matos</a>, we visited Louisiana State University to collaborate with <a href="https://sites.google.com/site/jakefillman/">Jake Fillman</a>, <a href="https://users.math.msu.edu/users/ikachkov/">Ilya Kachkovskiy</a> and <a href="https://www.math.lsu.edu/~shipman/">Stephen Shipman</a>.
   </p-->
   
  
-<h2>Preprints</h2>
-<ul style="margin-top: 2px">
-  <li style="font-size:20px"><a href="https://arxiv.org/abs/2305.19410"> Deficiency of chemical reaction networks: The effect of operations that preserve multistationarity and periodic orbits</a> Submitted. Joint work with Awildo Gutierrez, Elijah Leake, Caelyn Rivas-Sobie, and Anne Shiu. </li>
-  <li style="font-size:20px"><a href="https://arxiv.org/abs/2303.01643"> Additive Invariants of Open Petri Nets</a> Submitted. Joint work with Benjamin Bumpus, Sophie Libkind, Layla Sorkatti and Sam Tenka.</li>
-  <li style="font-size:20px"><a href="https://arxiv.org/abs/2302.11534"> Irreducibility of the Dispersion Relation for Periodic Graphs</a> Joint work with Matthew Faust.</li>
-  <li style="font-size:20px"><a href="https://arxiv.org/abs/2208.05576"> Real Solutions to Systems of Polynomial Equations in Macaulay2</a> Submitted. Joint work with Kelly Maluccio, Frank Sottile, and Thomas Yahl.</li>
-  <li style="font-size:20px"><a href="Hypergroups thesis.pdf">On Hypergroups of Order at Most 6</a> Master thesis.</li>
-</ul>
   
 <h2>Service</h2>
 <p style="font-size:20px">Together with <a href="https://tonellicueto.xyz/">Josué Tonelli-Cueto</a> and Thomas Yahl, I organized the special session "Applications and Computation in Algebraic Geometry" during the <a href="https://www.math.uh.edu/siamtxla22/index.shtml">5th Annual Meeting of the SIAM Texas-Louisiana Section.</a>
