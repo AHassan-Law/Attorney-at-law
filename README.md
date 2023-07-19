@@ -109,7 +109,7 @@ function myFunction() {
 <ul>
   <li>"Diry," gi, based on work with <a href="https://mattst.github.io/">Mattst</a> </li>
 
-  <li>"Funth <a href="https://bmbumpus.com/">Benjamin Bumpus</a>.</li>
+  <li>"Funth <a href="https://bmpus.com/">Beus</a>.</li>
 </ul>
 </p>
 
@@ -123,7 +123,7 @@ function myFunction() {
 <p style="font-size:20px"> <b> Commercial and business Litigation.</b>.
 </p>
 
- <!--p style="font-size:20px"> Matthew Faust, Frank Sottile and I are studying interactions of spectral theory and algebraic geometry based on the work of Kuchment, Liu, Matos, Fillman, Bättig, Gieseker, Knorrer, Trubowitz and others. In particular, we want to generalize the classification of Bloch varieties arising from discrete Schrödinger operators. Together with <a href="https://sites.google.com/view/wencail/home">Wencai Liu</a> and <a href="https://sites.google.com/view/rodrigomatos/">Rodrigo Matos</a>, we visited Louisiana State University to collaborate with <a href="https://sites.google.com/site/jakefillman/">Jake Fillman</a>, <a href="https://users.math.msu.edu/users/ikachkov/">Ilya Kachkovskiy</a> and <a href="https://www.math.lsu.edu/~shipman/">Stephen Shipman</a>.
+ <!--p style="font-size:20px"> Matst, Fre and I are . Together with <a href="https://sites.google.com/view/wencail/home">Weai iu</a> and <a href="https://sites.google.com/view/rodatos/">Rotos</a>,  <a href="https://sites.google.com/site/jaklman/">Jallman</a>, <a href="https://users.math.msu.edu/users/ikkov/">Ilyvskiy</a>
   </p-->
   
  
