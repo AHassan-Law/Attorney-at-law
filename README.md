@@ -101,13 +101,6 @@ function myFunction() {
 
 <p style="font-size:28px">
 
-</p>
-<p style="font-size:20px"> <b> Trial Lawyers.</b> Here are some reviews <a href="https://icerm.br.edu/events/h23-agst/"> </a> .
-</p>
-
-<p style="font-size:20px"> <b> Insurance Litigation.</b> 
-</p>
-
 <p style="font-size:28px">
 
 </p>
@@ -144,6 +137,13 @@ function myFunction() {
 <li> Custom Tax Solutions  </li>
 <li>"Funth <a href="https://bmpus.com/">Beus</a>.</li>
 </ul>
+</p>
+
+</p>
+<p style="font-size:20px"> <b> Trial Lawyers.</b> Here are some reviews <a href="https://icerm.br.edu/events/h23-agst/"> </a> .
+</p>
+
+<p style="font-size:20px"> <b> Insurance Litigation.</b> 
 </p>
 
  <!--p style="font-size:20px"> Matst, Fre and I are . Together with <a href="https://sites.google.com/view/wencail/home">Weai iu</a> and <a href="https://sites.google.com/view/rodatos/">Rotos</a>,  <a href="https://sites.google.com/site/jaklman/">Jallman</a>, <a href="https://users.math.msu.edu/users/ikkov/">Ilyvskiy</a>
