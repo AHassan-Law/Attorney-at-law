@@ -73,8 +73,8 @@ function myFunction() {
 <p><br style="clear: both;"/></p>
 
 <h2>Education</h2>
-  
-        <tr style = "font-size:20px"> 
+  <tbody> 
+        <p style = "font-size:20px"> 
                      <td style="text-align: left vertical-align:top;font-size:20px"> 2019 - present </td>
                      <td> MS. C. in Criminal Law, Boston University, USA </td>
             
@@ -82,7 +82,7 @@ function myFunction() {
                      <td style="text-align: left vertical-align:top;font-size:20px"> 2011 - 1993 </td>
                      <td> /M.S. in Law, The University of Boston, USA </td>
 
-           </tr>     
+           </p>     
      
    
 
