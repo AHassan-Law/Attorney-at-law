@@ -94,7 +94,7 @@ function myFunction() {
 
 <tbody> 
 
-<p style="font-size:20px">! I am Ahmed Hassan,an attnory in law working uder the requlation of Gorgia stae  <a href="https://www.gorgia.edu/~fradle/">Frtile</a>. My interests lie in immegarion law, visas, and their applications.
+<p style="font-size:20px">! The attorneys at our office have more than a decade of experience representing clients in IRS audits, Tax issues and all immigration matters We represent clients throughout the United States using the latest legal remote communication technology. .
 </p>
 
   <h2> Practise Areas</h2>
