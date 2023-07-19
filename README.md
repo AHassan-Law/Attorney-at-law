@@ -87,7 +87,7 @@ function myFunction() {
 
 <tbody> 
 
-<p style="font-size:20px">! The attorneys at our office have more than a decade of experience representing clients in IRS audits, Tax issues and all immigration matters We represent clients throughout the United States using the latest legal remote communication technology.
+<p style="font-size:20px">! The attorneys at our office have more than a decade of vast experience and expertise in representing clients in IRS audits, Tax issues and all immigration matters. We represent clients throughout the United States using the latest legal remote communication technology.
 </p>
 
   <h2> Practise Areas</h2>
