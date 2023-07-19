@@ -50,7 +50,7 @@ h1 {color: Maroon;}
 <th style="text-align: vertical-align:top">Call Us:</th>
 <td style="vertical-align: top">
 
-<i>  +14044654883 </i>
+<i>  404- 465-4883 or 404-962-0500 to book a consultation. </i>
 </td>
 </tr>
 <tr><!-- Link to your CV -->
