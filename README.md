@@ -72,25 +72,7 @@ function myFunction() {
 <!-- Break -->
 <p><br style="clear: both;"/></p>
 
-<h2>Education</h2>
-  <tbody> 
-        <p style = "font-size:20px"> 
-                     <td style="text-align: left vertical-align:top;font-size:20px"> 2019 - present </td>
-                     <td> MS. C. in Criminal Law, Boston University, USA </td>
-        </p>   
-   <tbody> 
-        <p style = "font-size:20px"> 
-                     <td style="text-align: left vertical-align:top;font-size:20px"> 1990 - 1993 </td>
-                     <td> /M.S. in Law, The University of Boston, USA </td>
-
-  <h2>About Us </h2> 
-
-<tbody> 
-
-<p style="font-size:20px">! The attorneys at our office have more than a decade of vast experience and expertise in representing clients in IRS audits, Tax issues and all immigration matters. We represent clients throughout the United States using the latest legal remote communication technology.
-</p>
-
-  <h2> Practise Areas</h2>
+<h2> Practise Areas</h2>
 
 <p style="font-size:28px">
 
