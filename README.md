@@ -127,12 +127,7 @@ function myFunction() {
  
   
 <h2>Service</h2>
-<p style="font-size:20px">Together with <a href="https://tonellicueto.xyz/">Josué Tonelli-Cueto</a> and Thomas Yahl, I organized the special session "Applications and Computation in Algebraic Geometry" during the <a href="https://www.math.uh.edu/siamtxla22/index.shtml">5th Annual Meeting of the SIAM Texas-Louisiana Section.</a>
 
-<p style="font-size: 20px">During Fall 2022, I was a mentor in the <a href="https://sites.google.com/view/twoples/">Twoples Program.</a>
-</p>
-
-<p style="font-size: 20px">Together with <a href="https://people.tamu.edu/~maier/">Matthias Maier</a>, <a href="https://www.math.tamu.edu/directory/formalpg.php?user=mae4102">Angelique Morvant</a>, and Anne Shiu, I organize the <a href="https://www.math.tamu.edu/undergraduate/drp/">Directed Reading Program</a> at Texas A&M. Moreover, together with <a href="https://arpan-pal.github.io/">Arpan Pal</a>, I organize the Texas A&M section of the Graduate Algebra Symposium, which includes UT Arlington, The University of North Texas and The University of Oklahoma.</p>
 </tbody>
 
 <!-- ===================== END YOUR CONTENT HERE ===================== -->
